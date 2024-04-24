@@ -1,0 +1,10 @@
+v 4
+file . "sumador_4bits_tb.vhdl" "69a16954f0fb0d79394ded81ed26cbe177dbf9e8" "20240319152422.211":
+  entity sumador4bits_tb at 2( 2) + 0 on 31;
+  architecture bench of sumador4bits_tb at 9( 111) + 0 on 32;
+file . "sumador_4bits.vhdl" "65e882b5e8a86316330e874b65d24d92f112323e" "20240319152422.208":
+  entity sumador4bits at 1( 0) + 0 on 29;
+  architecture behavioral of sumador4bits at 14( 335) + 0 on 30;
+file . "sumador.vhdl" "a32201229e5b70a34778ff7357460c33adbd634b" "20240319152422.207":
+  entity sumador at 1( 0) + 0 on 27;
+  architecture behavioral of sumador at 14( 263) + 0 on 28;
