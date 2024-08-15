@@ -1,0 +1,7 @@
+v 4
+file . "LSFR_TB.vhd" "ea039d57e5dacd3a6c8fe3506016ffae4fb3086a" "20240602023313.728":
+  entity lsfr_tb at 1( 0) + 0 on 13;
+  architecture behavioral of lsfr_tb at 8( 109) + 0 on 14;
+file . "LSFR.vhd" "2e0a793a6daf348ccbac9d7331b3e52743e182bf" "20240602023313.666":
+  entity lsfr at 1( 0) + 0 on 11;
+  architecture behavioral of lsfr at 12( 205) + 0 on 12;
